@@ -17,5 +17,5 @@ TEST(TypeWiseAlertTestSuite, TestClassifyTemperatureBreach) {
 TEST(TypeWiseAlertTestSuite, TestCheckAndAlert) {
     BatteryCharacter batteryChar = {PASSIVE_COOLING, "BrandX"};
     checkAndAlert(TO_CONTROLLER, batteryChar, 20.0);
-    checkAndAlert(TO_EMAIL, batteryChar, 36.0);    
+    checkAndAlert(TO_EMAIL, batteryChar, 36.0);
 }
