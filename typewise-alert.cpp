@@ -12,8 +12,8 @@ BreachType inferBreach(double value, double lowerLimit, double upperLimit) {
 }
 
 void determineTemperatureLimits(CoolingType coolingType, int* lowerLimit, int* upperLimit) {
-    const int lowerLimits[] = {0, 0, 0}; // PASSIVE_COOLING, HI_ACTIVE_COOLING, MED_ACTIVE_COOLING
-    const int upperLimits[] = {35, 45, 40}; // PASSIVE_COOLING, HI_ACTIVE_COOLING, MED_ACTIVE_COOLING
+    const int lowerLimits[] = {0, 0, 0}; 
+    const int upperLimits[] = {35, 45, 40}; 
 
     *lowerLimit = lowerLimits[coolingType];
     *upperLimit = upperLimits[coolingType];
