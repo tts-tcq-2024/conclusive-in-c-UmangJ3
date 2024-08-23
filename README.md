@@ -42,7 +42,7 @@ This section is about your regular work / project, not about the code in this re
 
 Think about guiding refactoring-work in your regular/project teams. Think of the day-to-day work done in your team, and improving the quality of code.
 
-You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? **Yes**
+You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? **Yes, definitely**
 
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
-**_enter the practice here**
+**I feel CCN has helped a lot because earlier I was not aware of pure functions and I am working as a Test Engineer in my team so now I will be doing Test Automation work also in C and Python language and there I need to develop code from scratch so I can take care of code complecity, modularity and of cousrse to write a code in such a way that it could be modify easily**
